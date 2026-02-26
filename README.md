@@ -26,5 +26,4 @@
 > Nombre: Alan Valderrama
 > Rol: Desarrollador en formación
 > Enfoque: Backend & Arquitectura
-> Stack Favorito: Node.js + PostgreSQL
 > Mentalidad: Clean Code & Buenas prácticas

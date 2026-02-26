@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,css,visual,java,git,github,react&theme=dark" /> </p>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=dark&title_color=00FF88&icon_color=00FF88&text_color=ffffff&bg_color=0d1117" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=black-ice&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" /> </p>
 
